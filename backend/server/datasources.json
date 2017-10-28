@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "sombrero": {
+    "host": "localhost",
+    "port": 27017,
+    "url": "",
+    "database": "",
+    "password": "",
+    "name": "sombrero",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
